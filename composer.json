@@ -1,8 +1,6 @@
 {
     "name": "obozaxy/snicker",
     "description": "An extremely fast and eloquent php logger.",
-    "homepage": "https://github.com/obozaxy/snicker",
-    "license": "Apache-2.0",
     "type": "library",
     "keywords": [
         "snicker",
@@ -12,10 +10,8 @@
         "logger",
         "php72"
     ],
-    "support": {
-        "issues": "https://github.com/obozaxy/snicker/issues",
-        "docs": "https://github.com/obozaxy/snicker/tree/master/docs"
-    },
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/obozaxy/snicker",
     "require": {
         "php": "^7.2",
         "psr/container": "*",
