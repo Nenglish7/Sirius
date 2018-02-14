@@ -32,7 +32,6 @@
         "ext-xml": "Allows the data to be logged in xml format."
     },
     "require-dev": {
-        "obozaxy/butterfinger": "^1",
         "phpunit/phpunit": "^7"
     },
     "config": {
