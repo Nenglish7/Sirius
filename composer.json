@@ -3,7 +3,7 @@
     "type": "library",
     "keywords": [
         "snicker",
-        "extremely-fast"
+        "extremely-fast",
         "secure-by-default",
         "eloquent",
         "logger",
