@@ -21,6 +21,15 @@
         "psr/container": "*",
         "psr/log": "*"
     },
+    "autoload": {
+        "psr-4": {
+            "Snicker\\Logger\\": "./src"
+        },
+        "files": [
+            "./loader.php",
+            "./logger.php"
+        ]
+    },
     "suggest": {
         "obozaxy/kitkat": "Allows the data to be logged in a database.",
         "ext-json": "Allows the data to be logged in json format.",
