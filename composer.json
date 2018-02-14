@@ -1,5 +1,8 @@
 {
     "name": "obozaxy/snicker",
+    "description": "An extremely fast and eloquent php logger.",
+    "homepage": "https://github.com/obozaxy/snicker",
+    "license": "Apache-2.0",
     "type": "library",
     "keywords": [
         "snicker",
@@ -9,19 +12,20 @@
         "logger",
         "php72"
     ],
-    "description": "An extremely fast and eloquent php logger.",
-    "homepage": "https://github.com/obozaxy/snicker",
-    "license": "Apache-2.0",
-    "time": "2018-08-20",
     "authors": [
         {
             "name": "Nicholas English",
             "homepage": "https://github.com/obozaxy",
             "email": "nenglish0820@outlook.com"
-        }
+        },
+        {
+            "name": "Snicker Contributors",
+            "homepage": "https://github.com/obozaxy/snicker/graphs/contributors"
+        },
     ],
     "support": {
-        "issues": "https://github.com/obozaxy/snicker/issues"
+        "issues": "https://github.com/obozaxy/snicker/issues",
+        "docs": "https://github.com/obozaxy/snicker/tree/master/docs"
     },
     "require": {
         "php": "^7.2",
