@@ -28,7 +28,9 @@
         "psr/log": "*"
     },
     "suggest": {
-        "ext-pdo": "Allows the data to be logged in a database."
+        "obozaxy/kitkat": "Allows the data to be logged in a database.",
+        "ext-json": "Allows the data to be logged in json format.",
+        "ext-xml": "Allows the data to be logged in xml format."
     },
     "require-dev": {
         "phpunit/phpunit": "^7"
