@@ -14,8 +14,8 @@
     "homepage": "https://github.com/obozaxy/snicker",
     "require": {
         "php": "^7.2",
-        "obozaxy/mounds": "^1",
         "psr/container": "*",
+        "ext-json": "*",
         "psr/log": "*"
     },
     "autoload": {
@@ -29,7 +29,6 @@
     },
     "suggest": {
         "obozaxy/kitkat": "Allows the data to be logged in a database.",
-        "ext-json": "Allows the data to be logged in json format.",
         "ext-xml": "Allows the data to be logged in xml format."
     },
     "require-dev": {
