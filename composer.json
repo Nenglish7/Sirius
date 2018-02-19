@@ -15,20 +15,16 @@
     "require": {
         "php": "^7.2",
         "psr/container": "*",
-        "ext-json": "*",
         "psr/log": "*"
     },
     "autoload": {
         "psr-4": {
             "Snicker\\Logger\\": "./src"
-        },
-        "files": [
-            "./loader.php",
-            "./logger.php"
-        ]
+        }
     },
     "suggest": {
-        "obozaxy/kitkat": "Allows the data to be logged in a database.",
+        "ext-yaml": "Allows the data to be logged in yaml format.",
+        "ext-json": "Allows the data to be logged in json format.",
         "ext-xml": "Allows the data to be logged in xml format."
     },
     "require-dev": {
