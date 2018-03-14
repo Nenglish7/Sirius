@@ -1,4 +1,5 @@
-composer.json
+.coveralls.yml
+.travis.yml
 composer.lock
 composer.phar
 /vendor/
