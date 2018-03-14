@@ -1,3 +1,5 @@
+LICENSE
+README.md
 .coveralls.yml
 .travis.yml
 composer.lock
