@@ -5,4 +5,5 @@ README.md
 composer.lock
 composer.phar
 /vendor/
+/tests/
 /docs/
